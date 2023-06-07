@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"id":"6jeomhw5liif9h9j"},{"id":"6jeomhw5liif9i27"},{"id":"6jeomi0cliiffr82"},{"id":"6jeomi0cliiffwr9"},{"id":"6jeomi0cliiffx7u"},{"id":"6jeomi0cliiffxuy"},{"id":"6jeomi0cliifg76g"},{"id":"6jeomi0cliih1z1m"},{"id":"6jeomi0cliih2070"},{"title":"Test Note 2","text":"random content to test to see if the post request is working.","id":"6jeomi0clijfvd3u"},{"title":"test 3","text":"this is the test text 2","id":"6jeomi0clijgcb1y"},{"title":"This is a test","text":"Test 1","id":"6jeom16z5lijtig3y"},{"title":"Test Note 2","text":"random content to test to see if the post request is working.","id":"6jeom16z5lijtkkzz"}]

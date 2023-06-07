@@ -9,13 +9,13 @@ const app = express ();
 //Port Settings
 const PORT = process.env.PORT || 3001;
 
-//Parsing incoming data
-//String or array
-app.use(express.urlencoded({extended: true}));
-//Json Data
-app.use(express.json());
 
 app.use(express.static('public'));
+//Parsing incoming data
+app.use(express.urlencoded({extended: true}));
+app.use(express.json());
+
+//require the routes
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
